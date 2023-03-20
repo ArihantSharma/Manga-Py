@@ -13,19 +13,19 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "6110868947:AAEGQXSAcsVX8J-VuIrg4JrmOnnWceeYn7o"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "25004026"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "c099cac9cb4e8e15398db4dd40342568"
     },
     "OWNER_ID": {
       "description": "Your telegram id, not username. Open https://t.me/MissRose_bot and send /id to bot",
-      "value": ""
+      "value": "1873810866"
     },
     "AS_ZIP": {
       "description": "Send files as zip or send files one by one, left empty to send files one by one. except for Folder option.",
